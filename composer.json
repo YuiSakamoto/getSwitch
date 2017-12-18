@@ -1,0 +1,6 @@
+{
+    "require": {
+        "scotteh/php-goose": "^0.6.2",
+        "sunra/php-simple-html-dom-parser": "^1.5"
+    }
+}
